@@ -19,7 +19,7 @@
   <script>
     window.$docsify = {
       name: 'How to be a God of mirror links',
-      repo: '',
+      repo: 'https://github.com/Drovosek01/how-to-be-god-of-mirror-links',
 	  onlyCover: false,
 	  coverpage: true,
 	  loadSidebar: true,
@@ -31,25 +31,23 @@
 	  // homepage: 'https://raw.githubusercontent.com/truepatch/docsify-ru/master/CHANGELOG.md',
 	  themeColor: '#3F51B5',
 	  executeScript: true,
-	  // mergeNavbar: true,
+	  mergeNavbar: true,
 	  ext: '.md',
 	  notFoundPage: true,
 	  alias: {'/.*/_sidebar.md': '/_sidebar.md'},
-	  
-	  // Plugins configurations
 	  plugins: [
-        EditOnGithubPlugin.create('https://github.com/docsifyjs/docsify/blob/master/docs/'),
+        EditOnGithubPlugin.create('https://github.com/Drovosek01/how-to-be-god-of-mirror-links/blob/master/docs/'),
       ],
 	  search: {
-        // maxAge: 86400000, // Expiration time, the default one day
-        paths: ['/'], // or 'auto' or []
+        maxAge: 86400000,
+        paths: ['/','/ru-RU/','/en-US/'],
         placeholder: {
-		  '/': 'Введите текст для поиска',
+		  '/': 'Type to search',
           '/ru-RU/': 'Введите текст для поиска',
           '/en-US/': 'Type to search'
         },
         noData: {
-		  '/': 'По вашему запросу ничего не найдено',
+		  '/': 'Nothing was found for your request',
           '/ru-RU/': 'По вашему запросу ничего не найдено',
           '/en-US/': 'Nothing was found for your request'
         },
