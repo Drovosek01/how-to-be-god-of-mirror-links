@@ -42,14 +42,14 @@
         maxAge: 86400000,
         paths: ['/','/ru-RU/','/en-US/'],
         placeholder: {
+		  '/ru-RU/': 'Введите текст для поиска',
+          '/en-US/': 'Type to search',
 		  '/': 'Type to search',
-          '/ru-RU/': 'Введите текст для поиска',
-          '/en-US/': 'Type to search'
         },
         noData: {
-		  '/': 'Nothing was found for your request',
           '/ru-RU/': 'По вашему запросу ничего не найдено',
-          '/en-US/': 'Nothing was found for your request'
+          '/en-US/': 'Nothing was found for your request',
+		  '/': 'Nothing was found for your request',
         },
         // depth: 6,
         hideOtherSidebarContent: false,
