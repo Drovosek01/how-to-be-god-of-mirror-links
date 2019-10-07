@@ -1,8 +1,8 @@
-- Translations
-    - [Russian](/ru-RU/)
-    - [English](/en-US/)
+ **Translations**
+    - [:ru: Russian](/ru-RU/)
+    - [:us: English](/en-US/)
 
-- Color themes
-    - [Light]()
-    - [Dark]()
-    - [Simple]()
+- **Color themes**
+    - [:sun_with_face: Light]()
+    - [:new_moon_with_face: Dark]()
+    - [:art: Simple]()
