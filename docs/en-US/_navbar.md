@@ -1,4 +1,4 @@
- **Translations**
+- **Translations**
     - [:ru: Russian](/ru-RU/)
     - [:us: English](/en-US/)
 
