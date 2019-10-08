@@ -2,5 +2,5 @@
 
   - [Preamble](/)
 - Languages
-  - [English](/ru-RU/)
-  - [Русский](/en-US/)
+  - [English](/en-US/)
+  - [Русский](/ru-RU/)
