@@ -25,6 +25,7 @@
 	  loadSidebar: true,
 	  loadNavbar: true,
 	  auto2top: true,
+	  autoHeader: true,
 	  formatUpdated: 'Last update in day: {DD} / month: {MM} / year: {YYYY} | time: {HH}:{mm}',
 	  externalLinkTarget: '_blank',
 	  routerMode: 'hash',
@@ -33,8 +34,9 @@
 	  executeScript: true,
 	  mergeNavbar: true,
 	  ext: '.md',
+	  subMaxLevel: 4,
 	  notFoundPage: true,
-	  alias: {'/.*/_sidebar.md': '/_sidebar.md'},
+	  // alias: {'/.*/_sidebar.md': '/_sidebar.md'},
 	  plugins: [
         EditOnGithubPlugin.create('https://github.com/Drovosek01/how-to-be-god-of-mirror-links/blob/master/docs/'),
       ],
