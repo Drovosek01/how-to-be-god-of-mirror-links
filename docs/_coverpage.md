@@ -9,4 +9,4 @@
 * Powerd by **[docsify](https://docsify.js.org/)**
 * Multiple languages
 
-[GitHub](https://github.com/Drovosek01/how-be-god-of-mirrors) [Get Started](/)
+[GitHub](https://github.com/Drovosek01/how-be-god-of-mirrors) [Get Started](#choose-translation)
