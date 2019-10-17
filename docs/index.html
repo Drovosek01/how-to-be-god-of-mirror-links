@@ -61,6 +61,21 @@
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <!-- Change themes -->
+  <script>
+    window.onload = function() {
+      var preview = Docsify.dom.find('.theme-preview');
+      var themes = Docsify.dom.findAll('[rel="stylesheet"]');
+
+      preview.onclick = function(e) {
+        var title = e.target.getAttribute('data-theme');
+
+        themes.forEach(function(theme) {
+          theme.disabled = theme.title !== title;
+        });
+      };
+    };
+  </script>
   <!-- Plugins -->
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
