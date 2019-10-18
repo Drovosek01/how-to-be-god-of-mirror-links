@@ -1,84 +1,89 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>How to be a God of mirror links</title>
-  <link rel="icon" href="_media/favicon.ico">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="">
-  <meta name="keywords" content="doc,docs,documentation,mirrors,links,files hosting,instruction,mirroring,upload,leech,direct links,rapidagator,uploaded,nitroflare,files sharing,alfafile,torrent">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <!-- Themes -->
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" title="vue">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/dark.css" title="dark" disabled>
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/buble.css" title="buble" disabled>
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/pure.css" title="pure" disabled>
-</head>
-<body>
-  <div id="app">Please wait, while pages are generating...</div>
-  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
-  <script>
-    window.$docsify = {
-      name: 'How to be a God of mirror links',
-      repo: 'https://github.com/Drovosek01/how-to-be-god-of-mirror-links',
-	  onlyCover: false,
-	  coverpage: true,
-	  loadSidebar: true,
-	  loadNavbar: true,
-	  auto2top: true,
-	  autoHeader: true,
-	  formatUpdated: 'Last update in day: {DD} / month: {MM} / year: {YYYY} | time: {HH}:{mm}',
-	  externalLinkTarget: '_blank',
-	  routerMode: 'hash',
-	  homepage: 'HOMEPAGE.md',
-	  themeColor: '#3F51B5',
-	  executeScript: true,
-	  mergeNavbar: true,
-	  ext: '.md',
-	  subMaxLevel: 4,
-	  notFoundPage: true,
-	  // alias: {'/.*/_sidebar.md': '/_sidebar.md'},
-	  plugins: [
-        EditOnGithubPlugin.create('https://github.com/Drovosek01/how-to-be-god-of-mirror-links/blob/master/docs/'),
-      ],
-	  search: {
-        maxAge: 86400000,
-        paths: ['/','/ru-RU/','/en-US/'],
-        placeholder: {
-		  '/ru-RU/': 'Введите текст для поиска',
-          '/en-US/': 'Type to search',
-		  '/': 'Type to search',
-        },
-        noData: {
-          '/ru-RU/': 'По вашему запросу ничего не найдено',
-          '/en-US/': 'Nothing was found for your request',
-		  '/': 'Nothing was found for your request',
-        },
-        // depth: 6,
-        hideOtherSidebarContent: false,
-        namespace: 'website-1',
-      }
-    }
-  </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <!-- Change themes -->
-  <script>
-    window.onload = function() {
-	debugger;
-      var preview = Docsify.dom.find('.theme-preview');
-      var themes = Docsify.dom.findAll('[rel="stylesheet"]');
-
-      preview.onclick = function(e) {
-        var title = e.target.getAttribute('data-theme');
-
-        themes.forEach(function(theme) {
-          theme.disabled = theme.title !== title;
-        });
+  <head>
+    <meta charset="UTF-8" />
+    <title>How to be a God of mirror links</title>
+    <link rel="icon" href="_media/favicon.ico" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="" />
+    <meta
+      name="keywords"
+      content="doc,docs,documentation,mirrors,links,files hosting,instruction,mirroring,upload,leech,direct links,rapidagator,uploaded,nitroflare,files sharing,alfafile,torrent"
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <!-- Themes -->
+    <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" title="vue" />
+    <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/dark.css" title="dark" disabled />
+    <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/buble.css" title="buble" disabled />
+    <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/pure.css" title="pure" disabled />
+  </head>
+  <body>
+    <div id="app">Please wait, while pages are generating...</div>
+    <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
+    <script>
+      window.$docsify = {
+        name: 'How to be a God of mirror links',
+        repo: 'https://github.com/Drovosek01/how-to-be-god-of-mirror-links',
+        onlyCover: false,
+        coverpage: true,
+        loadSidebar: true,
+        loadNavbar: true,
+        auto2top: true,
+        autoHeader: true,
+        formatUpdated: 'Last update in day: {DD} / month: {MM} / year: {YYYY} | time: {HH}:{mm}',
+        externalLinkTarget: '_blank',
+        routerMode: 'hash',
+        homepage: 'HOMEPAGE.md',
+        themeColor: '#3F51B5',
+        executeScript: true,
+        mergeNavbar: true,
+        ext: '.md',
+        subMaxLevel: 4,
+        notFoundPage: true,
+        // alias: {'/.*/_sidebar.md': '/_sidebar.md'},
+        plugins: [
+          EditOnGithubPlugin.create('https://github.com/Drovosek01/how-to-be-god-of-mirror-links/blob/master/docs/')
+        ],
+        search: {
+          maxAge: 86400000,
+          paths: ['/', '/ru-RU/', '/en-US/'],
+          placeholder: {
+            '/ru-RU/': 'Введите текст для поиска',
+            '/en-US/': 'Type to search',
+            '/': 'Type to search'
+          },
+          noData: {
+            '/ru-RU/': 'По вашему запросу ничего не найдено',
+            '/en-US/': 'Nothing was found for your request',
+            '/': 'Nothing was found for your request'
+          },
+          // depth: 6,
+          hideOtherSidebarContent: false,
+          namespace: 'website-1'
+        }
       };
-    };
-  </script>
-  <!-- Plugins -->
-  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
-</body>
+    </script>
+    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+    <!-- Change themes -->
+    <script>
+      window.onload = function() {
+        var preview = Docsify.dom.find('.theme-preview');
+        var themes = Docsify.dom.findAll('[rel="stylesheet"]');
+
+        preview.onclick = function(e) {
+          var title = e.target.getAttribute('data-theme');
+
+          themes.forEach(function(theme) {
+            theme.disabled = theme.title !== title;
+          });
+        };
+      };
+    </script>
+    <!-- Plugins -->
+    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+    <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+  </body>
 </html>
