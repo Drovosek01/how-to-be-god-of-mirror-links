@@ -1,8 +1,8 @@
 # How be God of mirror links
 
-[РУССКИй](./README-RU.md) | ENGLISH
+[РУССКИЙ](./README-RU.md) | ENGLISH
 
-This is a repository with instructions on how to create mirror links. The instruction is made in the form of documentation from Markdown files based on the site generator with documentation[docsify](https://docsify.js.org).
+This is a repository with instructions on how to create mirror links. The instruction is made in the form of documentation from Markdown files based on the site generator with documentation [docsify](https://docsify.js.org).
 
 If you just want to read this manual online, go to https://drovosek01.github.io/how-to-be-god-of-mirror-links/ and learn.
 
