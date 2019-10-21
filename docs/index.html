@@ -22,7 +22,6 @@
   </head>
   <body>
     <div id="app">Please wait, while pages are generating...</div>
-    <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
     <script>
       window.$docsify = {
         name: 'How to be a God of mirror links',
@@ -43,10 +42,6 @@
         ext: '.md',
         subMaxLevel: 4,
         notFoundPage: true,
-        // alias: {'/.*/_sidebar.md': '/_sidebar.md'},
-        plugins: [
-          EditOnGithubPlugin.create('https://github.com/Drovosek01/how-to-be-god-of-mirror-links/blob/master/docs/')
-        ],
         search: {
           maxAge: 86400000,
           paths: ['/', '/ru-RU/', '/en-US/'],
