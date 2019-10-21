@@ -1,3 +1,5 @@
+{docsify-updated}
+
 # Как быть Богом зеркальных ссылок
 
 РУССКИЙ | [ENGLISH](./README.md)

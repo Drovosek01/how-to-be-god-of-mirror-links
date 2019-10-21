@@ -1,3 +1,5 @@
+{docsify-updated}
+
 # How be God of mirror links
 
 [РУССКИЙ](./README-RU.md) | ENGLISH
