@@ -26,12 +26,13 @@
 | Imageban           | https://imageban.ru                | -           |
 | FunkyIMG           | https://funkyimg.com/              | -           |
 | Postimage          | https://postimages.org/            | -           |
-| fastpic            | https://fastpic.ru/                | -           |
+| FastPic            | https://fastpic.ru/                | -           |
 | PicPlus            | http://picplus.ru/                 | -           |
 | Radikal Foto       | https://radikal.ru/                | -           |
 | PasteNow           | https://pastenow.ru/               | -           |
 | Lostpic            | http://lostpic.net/                | -           |
 | Abload             | https://abload.de/                 | -           |
+| ImageHousing       | http://www.imagehousing.com/       | -           |
 | Imgspice           | https://www.imgspice.com/          | -           |
 | Imagetwist         | https://imagetwist.com/            | -           |
 | Hostingkartinok    | https://hostingkartinok.com/       | -           |
@@ -40,28 +41,49 @@
 | Imgbox             | https://imgbox.com/                | -           |
 | Uploads            | http://uploads.ru/                 | -           |
 | Imagebam           | http://www.imagebam.com/           | -           |
-| ImageShack         | http://imageshack.us/              | -           |
+| ImageShack         | https://imageshack.us/             | -           |
 | Imgsafe            | https://imgsafe.org/               | -           |
+| Geekpic            | https://geekpic.net/               | -           |
+| PictShare          | https://www.pictshare.net/         | -           |
 | Pikky              | http://pikky.net/                  | -           |
+| Uploads            | http://uploads.im/                 | -           |
+| Wmpics             | https://wmpics.pics/               | -           |
+| ImageTeam          | https://imageteam.org/             | -           |
+| ImageDecode        | https://imagedecode.com/           | -           |
+| DamImage           | https://damimage.com/              | -           |
+| BBPic              | https://bbpic.ru/                  | -           |
+| FreeBunker         | https://www.freebunker.com/        | -           |
+| ImageTitan         | http://www.imagetitan.com/         | -           |
+| ImageCoast         | https://www.imagecoast.com/        | -           |
+| ImgClick           | https://imgclick.net/              | -           |
 | Япикс              | http://yapx.ru/                    | -           |
-| hostingpics        | http://www.hostingpics.net/        | -           |
-| imgup              | https://imgup.net/                 | -           |
-| xomf               | https://xomf.com/                  | -           |
+| HostingPics        | http://www.hostingpics.net/        | -           |
+| ImgUp              | https://imgup.net/                 | -           |
+| ImgUp              | http://www.imgup.ru/               | -           |
+| Xomf               | https://xomf.com/                  | -           |
 | ImageUpper         | https://imageupper.com/            | -           |
 | z0x                | https://z0x.us/                    | -           |
-| picfront           | http://www.picfront.org/           | -           |
+| PicFront           | http://www.picfront.org/           | -           |
 | Mcgl               | https://i.mcgl.ru/                 | -           |
-| jpegshare          | https://jpegshare.net/             | -           |
-| uploadhouse        | https://www.uploadhouse.com/       | -           |
+| JpegShare          | https://jpegshare.net/             | -           |
+| ImJpg              | https://www.imjpg.com/             | -           |
+| UploadHouse        | https://www.uploadhouse.com/       | -           |
+| PimpAndHost        | https://pimpandhost.com/           | -           |
 | Maxiol             | https://pic.maxiol.com/            | -           |
+| Anonmgur           | https://www.anonmgur.com/          | -           |
 | Imagebin           | https://imagebin.ca/               | -           |
 | Tech Power Up      | https://www.techpowerup.org/upload | -           |
 | Turbo Imagehost    | https://www.turboimagehost.com/    | -           |
-| picr               | https://picr.de/                   | -           |
+| Picr               | https://picr.de/                   | -           |
+| BayImg             | https://bayimg.com/                | -           |
 | Hizli Resim        | https://hizliresim.com/            | -           |
-| pics ivbt          | https://pics.ivbt.ru/              | -           |
+| ImgTaxi            | https://imgtaxi.com/               | -           |
+| Pics ivbt          | https://pics.ivbt.ru/              | -           |
 | ImageCurl          | https://imagecurl.com/             | -           |
 | Dump Arump         | http://www.dumparump.com/          | -           |
+| Image Housing      | https://www.imagehousing.com/      | -           |
+| PriScree           | https://priscree.ru/               | -           |
+| Imageno            | http://www.imageno.com/            | -           |
 | Image123           | http://www.image123.net/           | -           |
 | ImageStun          | http://imagestun.com/hosting/      | -           |
 | Host Pic           | https://www.hostpic.org/           | -           |
@@ -70,33 +92,54 @@
 | PictureStack       | https://picturestack.com/          | -           |
 | ImageVenue         | http://www.imagevenue.com/         | -           |
 | SaveImg            | http://saveimg.ru/                 | -           |
-| thumbsnap          | https://thumbsnap.com/             | -           |
-| fotolink           | http://www.fotolink.su/            | -           |
+| Thumbsnap          | https://thumbsnap.com/             | -           |
+| Imgaa              | https://imgaa.com/                 | -           |
+| NoelShack          | https://www.noelshack.com/         | -           |
+| FotoLink           | http://www.fotolink.su/            | -           |
 | iPic               | https://ipic.su/                   | -           |
 | j-p-g              | https://j-p-g.net/                 | -           |
+| Jpeghost           | http://www.jpeghost.ru/            | -           |
+| JpegBay            | https://jpegbay.com/               | -           |
+| Vfl                | http://vfl.ru/                     | -           |
+| Eximage            | http://eximage.ru/                 | -           |
+| LitePic            | http://litepic.ru/                 | -           |
+| Image Up           | https://imageup.ru/                | -           |
+| Pixz               | https://pixz.ru/                   | -           |
 | Free Image Hosting | http://freeimagehosting.net/       | -           |
-| puush              | http://puush.me/                   | -           |
-| gifok net          | http://gifok.net/                  | -           |
-| imgbb              | https://imgbb.com/                 | -           |
+| Puush              | http://puush.me/                   | -           |
+| Gifok net          | http://gifok.net/                  | -           |
+| Imgbb              | https://imgbb.com/                 | -           |
 | Zimg               | https://zimg.se/                   | -           |
+| ImgLink            | http://imglink.ru/                 | -           |
 | Gifyu              | https://gifyu.com/                 | -           |
-| keep4u             | https://keep4u.ru/                 | -           |
-| file army          | https://file.army/                 | -           |
+| AdultImg           | https://adultimg.com/              | -           |
+| Keep4u             | https://keep4u.ru/                 | -           |
+| File army          | https://file.army/                 | -           |
 | Image Upload       | https://www.imageupload.net/       | -           |
 | Ultraimg           | https://www.ultraimg.com/          | -           |
 | Cweb-Pix           | https://www.cweb-pix.com/          | -           |
-| imgpile            | https://imgpile.com/               | -           |
+| Imgpile            | https://imgpile.com/               | -           |
 | Pixs               | https://pixs.ru/                   | -           |
 | Extraimage         | https://extraimage.net/            | -           |
-| ifotki             | http://ifotki.info/                | -           |
+| Imageshost         | https://imageshost.ru/             | -           |
+| BeeIMG             | https://beeimg.com/                | -           |
+| ImgDisk            | http://imgdisk.ru/                 | -           |
+| Screenshot         | http://screenshot.ru/upload/       | -           |
+| Ifotki             | http://ifotki.info/                | -           |
 | Imggmi             | https://imggmi.com/                | -           |
 | piccy              | http://piccy.info/                 | -           |
+| Pictureshack       | http://www.pictureshack.ru/        | -           |
 | Gif-animated       | http://gif-animated.ru/            | -           |
 | Gif-pictures       | http://gif-pictures.ru/            | -           |
 | Photobucket        | https://photobucket.com/           | -           |
+| PixaBay            | https://pixabay.com/               | -           |
 | picclick           | https://picclick.ru/               | -           |
 | picforall          | https://picforall.ru/              | -           |
-| pixady             | https://pixady.com/                | -           |
+| Un See             | https://unsee.cc/                  | -           |
+| Pixady             | https://pixady.com/                | -           |
+| ImageFlea          | http://imageflea.com/              | -           |
+| Hebergeur image    | https://www.hebergeur-image.com/   | -           |
+| ZippyShare         | https://www.zippyshare.com/        | -           |
 
 ### Только для gif-картинок
 
@@ -109,13 +152,26 @@
 | Gfycat           | https://gfycat.com/ | -           |
 | Gifer            | https://gifer.com/  | -           |
 
+### Только для svg-картинок
+
+В этой категории находится список сервисов, на которые можно загружать только svg изображения. То есть картинки в формате и с расширением `.svg`
+
+| Название сервиса | Ссылка             | Комментарий |
+| ---------------- | ------------------ | ----------- |
+| Svgur            | https://svgur.com/ | -           |
+
 ### Альтернативные варианты хостинга картинок
 
 В этой категории находится список сервисов, цель которых не в том, чтобы хранить и доставлять картинки пользователю, но в их функционал заложена и такая возможность и эти сервисы тоже можно использовать как хостинги картинок.
 
-| Название сервиса | Ссылка          | Комментарий                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ---------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Вконтакте        | https://vk.com/ | Эта социальная сеть, но в нее можно загружать картинки. Они автоматически конвертируются в формат JPG (если вы не загружаете их как документ) и немного **сжимаются**. Вы можете создать создать приватную группу/сообщество и загружать картинки в эту группу/сообщество, а потом копировать прямую ссылку на картинку и использовать где угодно. Если пост или личное сообщение с картинкой будет удалено, то картинка все равно будет доступна по прямой ссылке. |
+Стоит напомнить, что многие облачные хранилища можно также использовать как хостинги картинок, но придется копировать URL каждого изображения вручную.
+
+| Название сервиса    | Ссылка                         | Комментарий                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Вконтакте           | https://vk.com/                | Эта социальная сеть, но в нее можно загружать картинки. Они автоматически конвертируются в формат JPG (если вы не загружаете их как документ) и немного **сжимаются**. Вы можете создать создать приватную группу/сообщество и загружать картинки в эту группу/сообщество, а потом копировать прямую ссылку на картинку и использовать где угодно. Если пост или личное сообщение с картинкой будет удалено, то картинка все равно будет доступна по прямой ссылке. |
+| Google Фото         | https://photos.google.com/     | Сервис хоть и предназначен для хостинга ваших фотографий, но не предназначен для встраивания их в другие сайты. Тем не менее, если вы хотите хостить фотографии на серверах Google, вы можете загружать их в Google Фото, потом открывать их и копировать прямую ссылку на каждое фото вручную. Также, скорее всего, все картинки сживаются и загружать изображения без потери качества, наверное, не получится.                                                    |
+| Яндекс.Коллекции    | https://yandex.ru/collections/ | Раньше был сервис Яндекс.Фотки, но его переделали в Яндекс.Коллекции. Действуем почти так же как и с Google Фото - загружаем картинку, открываем ее и вручную ПКМ по картинке и копируем прямой ссылку на нее.                                                                                                                                                                                                                                                      |
+| Mail. Мой Мир. Фото | https://my.mail.ru/my/photo    | Не очень популярный и не сильно развивающийся сервис. Делается все также, как и в предыдущих случаях, загружаем картинку, открываем ее, ПКМ по ней и копируем прямую ссылку на картинку.                                                                                                                                                                                                                                                                            |
 
 ## Страницы - агрегаторы хостингов картинок
 
@@ -157,3 +213,5 @@
 ## Как формировалась эта страница
 
 Название сервисов взято с галвных страниц этих сервисов, либо просто скопировано название домена и написано с заглавной буквы, если на главной странице сервиса его название такое же, как и название домена.
+
+Если вы задаетесь вопросом как я смог узнать о таком количестве хостингов картинок, то ответ довольно прост - в определенный момент (некоторое количество лет назад) мне стало интересно узнать какаие еще существуют хостинги картинок помимо основных лидеров. Я стал смотреть URL почти каждого изображения на форумах, которые я посещал и где люди сами публиковали картинки а не прикрепляли их к посту с помощью встроенных на форуме средств. Сначала каждую картинку я открывал в новой вкладке, смотрел на URL, переходил на основной домен картинки и добавлял его в закладки. Потом я узнал о расширении [Image Size Info](https://www.igorware.com/extensions/image-size-info?referrer-ver=chrome-ext-manager) для браузера Google Chrome и дело пошло быстрее, потому что нужно было выполнять меньше действий. Вот так, просматривая URL почти каждого изображения на форумах я и собрал этот список хостингов картинок.
