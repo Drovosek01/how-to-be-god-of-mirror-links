@@ -41,7 +41,11 @@
         mergeNavbar: true,
         ext: '.md',
         subMaxLevel: 4,
-        notFoundPage: true,
+        notFoundPage: {
+          '/ru-RU/': '/ru-RU/_404.md',
+          '/en-US/': '/en-US/_404.md',
+          '/': '_404.md'
+        },
         search: {
           maxAge: 86400000,
           paths: ['/', '/ru-RU/', '/en-US/'],
