@@ -38,6 +38,7 @@
 | OpenDrive        | https://www.opendrive.com/ | -           |
 | 4sync            | https://4sync.com/         | -           |
 | OwnDrive         | https://owndrive.com/      | -           |
+| FireDrop         | https://firedrop.com/      | -           |
 | 4shared          | https://www.4shared.com/   | -           |
 | Cloud Up         | https://cloudup.com/       | -           |
 | MiMedia          | http://www.mimedia.com/    | -           |
@@ -63,6 +64,7 @@
 | FileCloud        | https://filecloud.me/         | -           |
 | UptoBox          | https://uptobox.com/          | -           |
 | Fex              | https://fex.net/              | -           |
+| Plustransfer     | https://www.plustransfer.com/ | -           |
 | FileUpload       | https://www.file-up.org/      | -           |
 | DoUploads        | https://douploads.net/        | -           |
 | UploadRar        | https://uploadrar.com/        | -           |
@@ -76,6 +78,9 @@
 | GoFile           | https://gofile.io/            | -           |
 | RarLink          | https://rarlink.com/          | -           |
 | SolidFiles       | https://www.solidfiles.com/   | -           |
+| UaFile           | https://file1.uafile.com/     | -           |
+| mShare           | https://mshare.io/            | -           |
+| vShare           | https://vshare.io/            | -           |
 | File-Upload      | https://www.file-upload.net/  | -           |
 | Global-Files     | http://global-files.net/      | -           |
 | My-Files         | https://my-files.ru/          | -           |
@@ -90,7 +95,16 @@
 | GigaPeta         | http://gigapeta.com/          | -           |
 | ExLoad           | https://ex-load.com/          | -           |
 | AnonFiles        | https://anonfiles.com/        | -           |
+| AnonFile         | https://anonfile.com/         | -           |
+| MyFile           | https://myfile.is/            | -           |
+| Share-Online     | https://share-online.is/      | -           |
+| MegaUpload       | https://megaupload.is/        | -           |
+| RapidShare       | https://rapidshare.nu/        | -           |
+| DesuFiles        | https://desufiles.com/        | -           |
 | BayFiles         | https://bayfiles.com/         | -           |
+| OpenLoad         | https://openload.cc/          | -           |
+| LetsUpload       | https://letsupload.cc/        | -           |
+| HotLink          | https://hotlink.cc/           | -           |
 | FileBz           | https://file.bz/              | -           |
 | FileRio          | https://filerio.in/           | -           |
 | HulkLoad         | http://hulkload.com/          | -           |
@@ -101,6 +115,7 @@
 | MyFiles          | http://myfiles.onl/           | -           |
 | DirectUpload     | https://www.directupload.net/ | -           |
 | DataFileHost     | https://www.datafilehost.com/ | -           |
+| UploadProper     | https://uploadproper.net/     | -           |
 | UPPIT            | http://uppit.com/             | -           |
 | DailyUploads     | https://dailyuploads.net/     | -           |
 | FileDot          | https://filedot.xyz/          | -           |
@@ -116,14 +131,22 @@
 | MegaFile         | https://megafile.io/          | -           |
 | MixLoads         | https://mixloads.com/         | -           |
 | DropApk          | https://dropapk.to/           | -           |
+| AndroidFileHost  | https://androidfilehost.com/  | -           |
 | Racaty           | https://racaty.com/           | -           |
+| FileBlade        | https://fileblade.com/        | -           |
+| Upload           | https://upload.cat/           | -           |
+| ShareMods        | https://sharemods.com/        | -           |
+| Uploadify        | https://uploadify.net/        | -           |
 | DropFiles        | https://dfiles.eu/            | -           |
 | UploadBox        | https://uploadbox.io/         | -           |
 | FileCandy        | http://filecandy.net/         | -           |
 | Linx             | https://linx.li               | -           |
 | FileTUT          | http://asmfile.com/           | -           |
 | Earn4Files       | https://earn4files.com/       | -           |
+| Upload4Earn      | https://upload4earn.org/      | -           |
 | Chomikuj         | http://chomikuj.pl/           | -           |
+| Ulozto           | https://ulozto.net/           | -           |
+| IcerBox          | https://icerbox.com/          | -           |
 | DdlTo            | https://ddl.to/               | -           |
 | UsersCloud       | https://userscloud.com/       | -           |
 | ExtMatrix        | https://www.extmatrix.com/    | -           |
@@ -150,12 +173,20 @@
 | Zofile           | http://zofile.com/            | -           |
 | RedBunker        | http://www.redbunker.net/     | -           |
 | Upstore          | https://upstore.net/          | -           |
+| UploadServ       | http://uploadserv.com/        | -           |
+| SnowFiles        | https://snowfiles.com/        | -           |
+| DriveUploader    | https://driveuploader.com/    | -           |
+| SendFiles        | https://www.sendfiles.net     | -           |
+| UsersDrive       | https://usersdrive.com/       | -           |
+| Images.Gameru    | https://images.gameru.net/    | -           |
 | GFXfile          | https://www.gfxfile.com/      | -           |
 | MegaUp           | https://megaup.net/           | -           |
 | MacUpload        | https://macupload.net/        | -           |
+| SyncsOnline      | https://www.syncs.online/     | -           |
 | MightyUpload     | http://www.mightyupload.com   | -           |
 | SaberCatHost     | https://sabercathost.com/     | -           |
 | WdFiles          | http://wdfiles.ru/            | -           |
+| SundryFiles      | https://sundryfiles.com/      | -           |
 | 1filesharing     | http://1filesharing.com/      | -           |
 | FileBonus        | http://filebonus.net/         | -           |
 | FileJoker        | https://filejoker.net/        | -           |
@@ -164,6 +195,7 @@
 | PreFiles         | https://prefiles.com/         | -           |
 | FileFactory      | http://www.filefactory.com/   | -           |
 | Rapidu           | https://rapidu.net/           | -           |
+| Top4top          | https://up.top4top.net/       | -           |
 | FilesMonster     | https://filesmonster.com/     | -           |
 | UniBytes         | http://www.unibytes.com/      | -           |
 | File-Space       | http://file-space.org/        | -           |
@@ -175,6 +207,7 @@
 | Alfafile         | https://alfafile.net/         | -           |
 | SendSpace        | https://www.sendspace.com/    | -           |
 | EasyBytez        | http://easybytez.com/         | -           |
+| WebchinUpload    | http://www.webchinupload.com/ | -           |
 | FileShark        | https://fileshark.pl/         | -           |
 | NitroFlare       | http://nitroflare.com/        | -           |
 | Oboom            | https://www.oboom.com/        | -           |
@@ -229,7 +262,8 @@
 | Ctrlq            | http://ctrlq.org/save/       | -           |
 | NetDrive         | https://netdrive.net/        | -           |
 | Zeropc           | http://www.zeropc.com/       | -           |
-| cCoudhq          | https://www.cloudhq.net/     | -           |
+| Coudhq           | https://www.cloudhq.net/     | -           |
+| UploadCloud      | https://uploadcloud.net/     | -           |
 
 ## Страницы - агрегаторы хостингов файлов
 
@@ -275,6 +309,6 @@
 
 ## Как формировалась эта страница
 
-Название сервисов взято с главных страниц этих сервисов, либо просто скопировано название домена и написано с заглавной буквы или в формате [CamelCase](https://ru.wikipedia.org/wiki/CamelCase).
+Название сервисов взято с главных страниц этих сервисов, либо просто скопировано название домена и написано с заглавной буквы или в формате [PascallCase](https://ru.wikipedia.org/wiki/CamelCase).
 
 Если вы задаетесь вопросом как я смог узнать о таком количестве хостингов файлов, то ответ довольно прост - в определенный момент (некоторое количество лет назад) мне стало интересно узнать какаие еще существуют хостинги файлов, помимо основных лидеров. Я стал анализировать ссылки везде, где видел их, где ими делятся живые люди - на форумах, которые я посещал, в социальных сетях, а так же смотрел списки поодерживаемых хостингов на сервисах мультизагрузки файлов на несколько хостингов.
