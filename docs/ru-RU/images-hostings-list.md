@@ -40,12 +40,15 @@
 | XooIMG             | https://xooimg.com/                | -           |
 | Imgbox             | https://imgbox.com/                | -           |
 | Uploads            | http://uploads.ru/                 | -           |
+| PasteBoard         | https://pasteboard.co/             | -           |
 | Imagebam           | http://www.imagebam.com/           | -           |
 | ImageShack         | https://imageshack.us/             | -           |
 | Imgsafe            | https://imgsafe.org/               | -           |
 | Geekpic            | https://geekpic.net/               | -           |
 | PictShare          | https://www.pictshare.net/         | -           |
 | Pikky              | http://pikky.net/                  | -           |
+| Picusha            | https://picusha.net/               | -           |
+| MagaImg            | https://magaimg.net/               | -           |
 | Uploads            | http://uploads.im/                 | -           |
 | Wmpics             | https://wmpics.pics/               | -           |
 | ImageTeam          | https://imageteam.org/             | -           |
@@ -88,8 +91,14 @@
 | Image123           | http://www.image123.net/           | -           |
 | ImageStun          | http://imagestun.com/hosting/      | -           |
 | Host Pic           | https://www.hostpic.org/           | -           |
+| Speed4up           | https://speed4up.net/              | -           |
+| ImgSrc             | https://imgsrc.ru/                 | -           |
+| PicBit             | https://picbit.net/                | -           |
 | Мепик              | https://www.mepic.ru/              | -           |
 | PicShare           | http://www.picshare.ru/            | -           |
+| PixHost            | https://pixhost.to/                | -           |
+| UploadDeImagens    | https://uploaddeimagens.com.br/    | -           |
+| ZupImages          | https://www.zupimages.net/         | -           |
 | PictureStack       | https://picturestack.com/          | -           |
 | ImageVenue         | http://www.imagevenue.com/         | -           |
 | SaveImg            | http://saveimg.ru/                 | -           |
@@ -98,10 +107,12 @@
 | NoelShack          | https://www.noelshack.com/         | -           |
 | FotoLink           | http://www.fotolink.su/            | -           |
 | iPic               | https://ipic.su/                   | -           |
+| CasImages          | https://www.casimages.com/         | -           |
 | j-p-g              | https://j-p-g.net/                 | -           |
 | Jpeghost           | http://www.jpeghost.ru/            | -           |
 | JpegBay            | https://jpegbay.com/               | -           |
 | Vfl                | http://vfl.ru/                     | -           |
+| TrueImages         | http://trueimages.ru/              | -           |
 | Eximage            | http://eximage.ru/                 | -           |
 | LitePic            | http://litepic.ru/                 | -           |
 | Image Up           | https://imageup.ru/                | -           |
@@ -109,11 +120,15 @@
 | Free Image Hosting | http://freeimagehosting.net/       | -           |
 | Puush              | http://puush.me/                   | -           |
 | Gifok net          | http://gifok.net/                  | -           |
+| EasyPicShare       | http://www.easypicshare.com/       | -           |
 | Imgbb              | https://imgbb.com/                 | -           |
 | Zimg               | https://zimg.se/                   | -           |
 | ImgLink            | http://imglink.ru/                 | -           |
 | Gifyu              | https://gifyu.com/                 | -           |
+| LookImg            | https://lookimg.com/               | -           |
 | AdultImg           | https://adultimg.com/              | -           |
+| Picoolio           | https://picoolio.net/              | -           |
+| ServImg            | https://servimg.com/               | -           |
 | Keep4u             | https://keep4u.ru/                 | -           |
 | File army          | https://file.army/                 | -           |
 | Image Upload       | https://www.imageupload.net/       | -           |
@@ -141,6 +156,7 @@
 | Mac-Ru             | https://pic.mac-ru.net/            | -           |
 | ImageFlea          | http://imageflea.com/              | -           |
 | Hebergeur image    | https://www.hebergeur-image.com/   | -           |
+| PimpAndHost        | https://pimpandhost.com/           | -           |
 | ZippyShare         | https://www.zippyshare.com/        | -           |
 
 ### Только для gif-картинок
@@ -218,6 +234,6 @@
 
 ## Как формировалась эта страница
 
-Название сервисов взято с главных страниц этих сервисов, либо просто скопировано название домена и написано с заглавной буквы или в формате [CamelCase](https://ru.wikipedia.org/wiki/CamelCase).
+Название сервисов взято с главных страниц этих сервисов, либо просто скопировано название домена и написано с заглавной буквы или в формате [PascallCase](https://ru.wikipedia.org/wiki/CamelCase).
 
 Если вы задаетесь вопросом как я смог узнать о таком количестве хостингов картинок, то ответ довольно прост - в определенный момент (некоторое количество лет назад) мне стало интересно узнать какаие еще существуют хостинги картинок помимо основных лидеров. Я стал смотреть URL почти каждого изображения на форумах, которые я посещал и где люди сами публиковали картинки а не прикрепляли их к посту с помощью встроенных на форуме средств. Сначала каждую картинку я открывал в новой вкладке, смотрел на URL, переходил на основной домен картинки и добавлял его в закладки. Потом я узнал о расширении [Image Size Info](https://www.igorware.com/extensions/image-size-info?referrer-ver=chrome-ext-manager) для браузера Google Chrome и дело пошло быстрее, потому что нужно было выполнять меньше действий. Вот так, просматривая URL почти каждого изображения на форумах я и собрал этот список хостингов картинок.
