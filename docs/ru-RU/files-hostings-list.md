@@ -16,6 +16,8 @@
 
 ### Облачные хранилища
 
+В этой категории находится список сервисов, на которые можно загружать файлы и **безпрепятственно скачивать** их так же безпрепятственно **делиться** ими.
+
 | Название сервиса | Ссылка                     | Комментарий |
 | ---------------- | -------------------------- | ----------- |
 | Google Drive     | https://drive.google.com/  | -           |
@@ -40,11 +42,16 @@
 | Cloud Up         | https://cloudup.com/       | -           |
 | MiMedia          | http://www.mimedia.com/    | -           |
 | HighTail         | https://www.hightail.com/  | -           |
+| Hostr            | https://hostr.co/          | -           |
 | Baidu            | https://pan.baidu.com/     | -           |
 | Yunpan           | https://yunpan.360.cn/     | -           |
 | Weiyun           | https://www.weiyun.com/    | -           |
 
-### Хостинги файлов
+### Хостинги файлов - файлообменники
+
+В этой категории находится список сервисов, на которые можно загружать файлы разных форматов и делиться ими. Отличие этих сервисов от облачных хранилищ заключается в том, что хостинги файлов имеют существенные ограничения по сравнению с "облаками", например, недолговечное хранение или низкая скорость скачивания и другие.
+
+В разговорном языке часто такие сервисы называют не хостинги файлов, а просто файлообменники.
 
 | Название сервиса | Ссылка                        | Комментарий |
 | ---------------- | ----------------------------- | ----------- |
@@ -57,9 +64,17 @@
 | UptoBox          | https://uptobox.com/          | -           |
 | Fex              | https://fex.net/              | -           |
 | FileUpload       | https://www.file-up.org/      | -           |
+| DoUploads        | https://douploads.net/        | -           |
+| UploadRar        | https://uploadrar.com/        | -           |
+| EuropeUp         | https://europeup.com/         | -           |
+| Uploadev         | https://uploadev.org/         | -           |
+| Mexa Share       | https://mexa.sh/              | -           |
+| Datei            | https://datei.to/             | -           |
+| Dateiload        | http://dateiload.com/         | -           |
 | OpenLoad         | https://oload.tv/             | -           |
 | OpenLoad         | https://openload.co/          | -           |
 | GoFile           | https://gofile.io/            | -           |
+| RarLink          | https://rarlink.com/          | -           |
 | SolidFiles       | https://www.solidfiles.com/   | -           |
 | File-Upload      | https://www.file-upload.net/  | -           |
 | Global-Files     | http://global-files.net/      | -           |
@@ -69,15 +84,18 @@
 | SendFile         | http://sendfile.su/           | -           |
 | FilesABC         | http://filesabc.com/          | -           |
 | UploadOcean      | https://uploadocean.com/      | -           |
+| OrtoFiles        | http://www.ortofiles.com/     | -           |
 | UploadFiles      | https://uploadfiles.io/       | -           |
 | GeTT             | http://ge.tt/                 | -           |
 | GigaPeta         | http://gigapeta.com/          | -           |
 | ExLoad           | https://ex-load.com/          | -           |
 | AnonFiles        | https://anonfiles.com/        | -           |
 | BayFiles         | https://bayfiles.com/         | -           |
+| FileBz           | https://file.bz/              | -           |
 | FileRio          | https://filerio.in/           | -           |
 | HulkLoad         | http://hulkload.com/          | -           |
 | ClicknUpload     | https://clicknupload.org/     | -           |
+| Dir50            | https://dir50.cc/             | -           |
 | BdUpload         | https://bdupload.asia/        | -           |
 | FileUpload       | http://fileupload.pw/         | -           |
 | MyFiles          | http://myfiles.onl/           | -           |
@@ -85,6 +103,11 @@
 | DataFileHost     | https://www.datafilehost.com/ | -           |
 | UPPIT            | http://uppit.com/             | -           |
 | DailyUploads     | https://dailyuploads.net/     | -           |
+| FileDot          | https://filedot.xyz/          | -           |
+| 9xupload         | https://9xupload.xyz/         | -           |
+| UploadSt         | https://upload.st/            | -           |
+| Pixeldrain       | https://pixeldrain.com/       | -           |
+| OxyCloud         | https://oxy.cloud/            | -           |
 | FastStore        | https://faststore.org/        | -           |
 | CloudGhost       | https://www.cloudghost.net/   | -           |
 | IndiShare        | https://www.indishare.org/    | -           |
@@ -94,16 +117,17 @@
 | MixLoads         | https://mixloads.com/         | -           |
 | DropApk          | https://dropapk.to/           | -           |
 | Racaty           | https://racaty.com/           | -           |
-| FileUpload       | https://www.file-up.org/      | -           |
-| FileUpload       | https://www.file-up.org/      | -           |
-| FileUpload       | https://www.file-up.org/      | -           |
-| FileUpload       | https://www.file-up.org/      | -           |
 | DropFiles        | https://dfiles.eu/            | -           |
 | UploadBox        | https://uploadbox.io/         | -           |
+| FileCandy        | http://filecandy.net/         | -           |
+| Linx             | https://linx.li               | -           |
+| FileTUT          | http://asmfile.com/           | -           |
+| Earn4Files       | https://earn4files.com/       | -           |
 | Chomikuj         | http://chomikuj.pl/           | -           |
 | DdlTo            | https://ddl.to/               | -           |
 | UsersCloud       | https://userscloud.com/       | -           |
 | ExtMatrix        | https://www.extmatrix.com/    | -           |
+| PutRe            | https://put.re/               | -           |
 | WuShare          | https://wushare.com/          | -           |
 | Up4Ever          | https://www.up-4ever.org/     | -           |
 | Filer            | https://filer.net/            | -           |
@@ -133,6 +157,7 @@
 | SaberCatHost     | https://sabercathost.com/     | -           |
 | WdFiles          | http://wdfiles.ru/            | -           |
 | 1filesharing     | http://1filesharing.com/      | -           |
+| FileBonus        | http://filebonus.net/         | -           |
 | FileJoker        | https://filejoker.net/        | -           |
 | WupFile          | https://wupfile.com           | -           |
 | Заливалка        | http://zalivalka.ru/          | -           |
@@ -160,12 +185,29 @@
 | NovaFile         | https://novafile.com/         | -           |
 | File Al          | https://file.al/              | -           |
 | BezSms           | http://bezsms.org/            | -           |
+| Downace          | https://downace.com/          | -           |
+| DoraUpload       | https://www.doraupload.com/   | -           |
 
 ### Альтернативные способы хранения файлов
+
+В этой категории находится список сервисов, цель которых не в том, чтобы хранить и доставлять файлы пользователю, но в их функционал заложена и такая возможность и эти сервисы тоже можно использовать как хостинги файлов.
 
 | Название сервиса | Ссылка          | Комментарий                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ---------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Вконтакте        | https://vk.com/ | В социальной сети Вконтакте есть возможность загружать документы почти любых форматов размером до 200 МБ. Нельзя загружать исполняемые файлы (`.exe`, `.msi` и другие) и архивы, которые содержат эти файлы, но всегда архив можно заархивировать повторно в другой формат. Преимущество в том, после загрузки файла, сгенерированная ссылка на файл является фактически прямой и при переходе по ней сразу происходит скачивание файла. Из минусов могу заметить то, что при удалении аккаунта все файлы-документы становятся недоступны не для кого, а так же имена файлов всегда меняются на английские символы. |
+
+## Сервисы для мультизагрузки загрузки файлов на несколько хостингов файлов
+
+| Название сервиса | Ссылка                       | Комментарий |
+| ---------------- | ---------------------------- | ----------- |
+| MultiUp          | https://www.multiup.org/     | -           |
+| Mirrorace        | https://mirrorace.com/       | -           |
+| Mirrored         | https://www.mirrored.to/     | -           |
+| Go4up            | https://go4up.com/           | -           |
+| EmbedUpload      | http://www.embedupload.com/  | -           |
+| UploadMagnet     | http://www.uploadmagnet.com/ | -           |
+| UpMirror         | https://www.upmirror.info/   | -           |
+| MultiFileMirror  | https://multifilemirror.com/ | -           |
 
 ## Страницы - агрегаторы хостингов файлов
 
@@ -174,7 +216,7 @@
 | Ru-Board         | http://forum.ru-board.com/topic.cgi?forum=5&topic=35708&start=1540 | -           |
 | 4pda             | http://4pda.ru/forum/index.php?showtopic=543531                    | -           |
 
-## По как им критериям можно сравнить или отсортировать хостинги картинок
+## По как им критериям можно сравнить или отсортировать хостинги файлов
 
 В этом разделе находится список критериев, по которым можно устроить сравнение хостингов файлов.
 
@@ -196,6 +238,18 @@
 - Возможность предпросмотра PDF
 - Возможность предпросмотра картинок
 - Генерация встраиваемых кодов
+
+## В чем отличие облачных хранилищ от хостингов файлов
+
+На мой взгляд вопрос довольно риторический.
+
+Каждое облачное хранилище является хостингом файлов для владельца аккаунта и некоторого места в этом "облаке", это однозначно.
+
+Но хостинги файлов, список которых я привел выше, я бы не назвал облачными хранилищами, хотя некоторые из них во многом схожи.
+
+У облачных хранилищ и файлообменников есть общие черты, но есть и сильные различия. Дело в том, что подавляющая часть файлообменников стараются монетизировать все, что поддается монетизации - скорость скачивания, срок хранения, размер загружаемого файла, количество потребляемого трафика, наличие рекламы и т.д. У некоторых облачных хранилищ тоже наблюдаются некоторые их этих особенностей, например _mediafire_ удаляет аккаунт и все файлы на нем при 180 днях неактивности, Mega вводит ограничение на количество скачиваемого трафика и т.д.
+
+Я предлагаю за критерий, по которому можно отличить обычное пользовательское облачное хранилище и файлообменник, брать такую функцию как беспрепятственное скачивание файлов для владельца файла, не считая ограничений по скачиваемому трафику. Потому что почти во всех файлообменниках те файлы, которые вы загрузили в свой аккаунт на сервисе, вы скачиваете с абсолютно такими же ограничениями как и любой другой пользователь, а вот в облачных хранилищах хоть и могут вводится ограничения на загрузку файла, который вы открыли по ссылки на каком-то сайте, но я еще не видел (или не помню) облачных хранилищ, которые бы как-то ограничивали скорость скачивания если вы скачиваете свой файлы из интерфеса "облака" в своей учетной записи.
 
 ## Как формировалась эта страница
 
