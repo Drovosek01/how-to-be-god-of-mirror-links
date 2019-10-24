@@ -1,29 +1,13 @@
-- Getting started
+- The content
 
-  - [Quick start](quickstart.md)
-  - [NEWS](news.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [Prologue](/en-US/)
 
-- Customization
+  - [Introduction](/en-US/introduction.md)
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
+  - [How to make "mirrors"](/en-US/base-info.md)
 
-- Guide
+  - [Todo list](/en-US/todo.md)
 
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode(PWA)](pwa.md)
-  - [Server-Side Rendering(SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
+  - [List of files hosts](/en-US/files-hostings-list.md)
 
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+  - [List of images hosts](/en-US/images-hostings-list.md)
