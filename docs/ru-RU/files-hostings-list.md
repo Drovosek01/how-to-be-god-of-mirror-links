@@ -198,6 +198,8 @@
 
 ## Сервисы для мультизагрузки загрузки файлов на несколько хостингов файлов
 
+В этой категории находится список сервисов, которые позволяют загрузить файл на несколько хостингов файлов, загрузив его единожды в сам такой сервис. В общем сервисы для зеркалирования.
+
 | Название сервиса | Ссылка                       | Комментарий |
 | ---------------- | ---------------------------- | ----------- |
 | MultiUp          | https://www.multiup.org/     | -           |
@@ -208,6 +210,26 @@
 | UploadMagnet     | http://www.uploadmagnet.com/ | -           |
 | UpMirror         | https://www.upmirror.info/   | -           |
 | MultiFileMirror  | https://multifilemirror.com/ | -           |
+
+## Сервисы для миграции файлов между облачными хранилищами
+
+В этой категории находится список сервисов, с помощью которых можно переместить файл из одного облачного хранилища в другое, не тратя свой интернет трафик.
+
+| Название сервиса | Ссылка                       | Комментарий |
+| ---------------- | ---------------------------- | ----------- |
+| MultCloud        | https://www.multcloud.com/   | -           |
+| Cloudfuze        | https://www.cloudfuze.com/   | -           |
+| Cloudsfer        | https://www.cloudsfer.com/   | -           |
+| Odrive           | https://www.odrive.com/      | -           |
+| OxygenCloud      | https://home.oxygencloud.com | -           |
+| Mover            | https://mover.io/            | -           |
+| Skyvia           | https://skyvia.com/          | -           |
+| FileStack        | https://www.filestack.com/   | -           |
+| Otixo            | https://otixo.com/           | -           |
+| Ctrlq            | http://ctrlq.org/save/       | -           |
+| NetDrive         | https://netdrive.net/        | -           |
+| Zeropc           | http://www.zeropc.com/       | -           |
+| cCoudhq          | https://www.cloudhq.net/     | -           |
 
 ## Страницы - агрегаторы хостингов файлов
 
