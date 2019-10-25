@@ -60,6 +60,7 @@
 | Upload           | https://www.upload.ee         | -           |
 | SendIt           | https://sendit.cloud/         | -           |
 | WorkUpload       | https://workupload.com/       | -           |
+| Firefox Send     | https://send.firefox.com/     | -           |
 | WeTransfer       | https://wetransfer.com/       | -           |
 | FileCloud        | https://filecloud.me/         | -           |
 | UptoBox          | https://uptobox.com/          | -           |
@@ -71,6 +72,8 @@
 | EuropeUp         | https://europeup.com/         | -           |
 | Uploadev         | https://uploadev.org/         | -           |
 | Mexa Share       | https://mexa.sh/              | -           |
+| SharePlace       | http://shareplace.org/        | -           |
+| KatFile          | http://katfile.com/           | -           |
 | Datei            | https://datei.to/             | -           |
 | Dateiload        | http://dateiload.com/         | -           |
 | OpenLoad         | https://oload.tv/             | -           |
