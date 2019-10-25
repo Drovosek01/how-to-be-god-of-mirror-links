@@ -219,7 +219,7 @@
 | UploadGig        | https://uploadgig.com/        | -           |
 | UploadCloud      | https://www.uploadcloud.pro/  | -           |
 | NovaFile         | https://novafile.com/         | -           |
-| File Al          | https://file.al/              | -           |
+| FileAl           | https://file.al/              | -           |
 | BezSms           | http://bezsms.org/            | -           |
 | Downace          | https://downace.com/          | -           |
 | DoraUpload       | https://www.doraupload.com/   | -           |
