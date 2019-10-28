@@ -22,11 +22,37 @@
 
 ### Джентельменский набор
 
-Это список сервисах, на которых я советую щарегистрироваться в любом случае, если вы будете заниматься массовым созданием зеркальных ссылок.
+Это список сервисах, на которых я советую зарегистрироваться в любом случае, если вы будете заниматься массовым созданием зеркальных ссылок.
 
 Этот список составлен только по моим взглядам, в зависимости от ваших целей и объемов зеркалирования вы можете исключить некоторые сервисы.
 
 Если у вас уже есть аккаунты на некоторых из этих сервисов, то, я рекомендую зарегистрировать дополнительные и не загружать зеркалируемые файлы в своих рабочие/личные облачные хранилища.
+
+- https://drive.google.com/
+- https://mega.nz/
+- https://www.mediafire.com/
+- https://degoo.com/
+- https://www.dropbox.com/
+- https://onedrive.live.com/
+- https://cloud.mail.ru/
+- https://disk.yandex.ru/
+- https://www.zippyshare.com/
+- https://www.file-up.org/
+- https://www.upload.ee
+- https://uptobox.com/
+- https://douploads.net/
+- https://openload.co/
+- https://sendit.cloud/
+- https://userscloud.com/
+- https://letsupload.co/
+- https://1fichier.com/
+- http://rapidgator.net/
+- https://turbobit.net/
+- http://nitroflare.com/
+- https://uploaded.net/
+- https://www.multiup.org/
+- https://www.mirrored.to/
+- https://mirrorace.com/
 
 ### Зачем регистрироваться на сервисах
 
