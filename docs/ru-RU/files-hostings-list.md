@@ -203,7 +203,7 @@
 | UniBytes         | http://www.unibytes.com/      | -           |
 | File-Space       | http://file-space.org/        | -           |
 | FileSpace        | http://filespace.com/         | -           |
-| Rapidgator       | http://rapidgator.net/        | -           |
+| Rapidgator       | https://rapidgator.net/       | -           |
 | Uploaded         | https://uploaded.net/         | -           |
 | Turbobit         | https://turbobit.net/         | -           |
 | HitFile          | https://hitfile.net/          | -           |
