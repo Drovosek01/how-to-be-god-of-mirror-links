@@ -146,6 +146,7 @@
 | Linx             | https://linx.li               | -           |
 | FileTUT          | http://asmfile.com/           | -           |
 | Earn4Files       | https://earn4files.com/       | -           |
+| Up-load          | https://up-load.io/           | -           |
 | Upload4Earn      | https://upload4earn.org/      | -           |
 | Chomikuj         | http://chomikuj.pl/           | -           |
 | Ulozto           | https://ulozto.net/           | -           |
