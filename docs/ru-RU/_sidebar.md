@@ -12,8 +12,12 @@
 
   - [Выбор хостингов файлов](/ru-RU/choosing-file-hostings.md)
 
-  - [Список задач](/ru-RU/todo.md)
+- Полезные списки разных сервисов
 
   - [Список хостингов файлов](/ru-RU/files-hostings-list.md)
 
   - [Список хостингов картинок](/ru-RU/images-hostings-list.md)
+
+- Разное
+
+  - [Список задач](/ru-RU/todo.md)
