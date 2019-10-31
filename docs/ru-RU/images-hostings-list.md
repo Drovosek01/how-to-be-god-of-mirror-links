@@ -158,6 +158,7 @@
 | ImageFlea          | http://imageflea.com/              | -           |
 | Hebergeur image    | https://www.hebergeur-image.com/   | -           |
 | PimpAndHost        | https://pimpandhost.com/           | -           |
+| PhotoRock          | https://photo.rock.ru/             | -           |
 | ZippyShare         | https://www.zippyshare.com/        | -           |
 
 ### Только для gif-картинок

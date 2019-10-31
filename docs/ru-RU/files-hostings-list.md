@@ -186,6 +186,7 @@
 | GFXfile          | https://www.gfxfile.com/      | -           |
 | MegaUp           | https://megaup.net/           | -           |
 | MacUpload        | https://macupload.net/        | -           |
+| VinLoad          | https://vinload.com/          | -           |
 | SyncsOnline      | https://www.syncs.online/     | -           |
 | MightyUpload     | http://www.mightyupload.com   | -           |
 | SaberCatHost     | https://sabercathost.com/     | -           |
