@@ -187,6 +187,7 @@
 | MegaUp           | https://megaup.net/           | -           |
 | MacUpload        | https://macupload.net/        | -           |
 | VinLoad          | https://vinload.com/          | -           |
+| HtDrive          | https://download.htdrive.com/ | -           |
 | SyncsOnline      | https://www.syncs.online/     | -           |
 | MightyUpload     | http://www.mightyupload.com   | -           |
 | SaberCatHost     | https://sabercathost.com/     | -           |
