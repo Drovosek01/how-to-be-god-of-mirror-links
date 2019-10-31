@@ -175,6 +175,8 @@
 | LoadTo           | https://www.load.to/          | -           |
 | TinyUpload       | http://www.tinyupload.com/    | -           |
 | Zofile           | http://zofile.com/            | -           |
+| BadShare         | https://badshare.io/          | -           |
+| IntoUpload       | https://intoupload.net/       | -           |
 | RedBunker        | http://www.redbunker.net/     | -           |
 | Upstore          | https://upstore.net/          | -           |
 | UploadServ       | http://uploadserv.com/        | -           |
