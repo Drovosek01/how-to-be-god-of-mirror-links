@@ -43,6 +43,7 @@
 | PasteBoard         | https://pasteboard.co/             | -           |
 | Imagebam           | http://www.imagebam.com/           | -           |
 | ImageShack         | https://imageshack.us/             | -           |
+| ImageShack         | https://imageshack.com/            | -           |
 | Imgsafe            | https://imgsafe.org/               | -           |
 | Geekpic            | https://geekpic.net/               | -           |
 | PictShare          | https://www.pictshare.net/         | -           |
