@@ -49,6 +49,9 @@
 | PictShare          | https://www.pictshare.net/         | -           |
 | Pikky              | http://pikky.net/                  | -           |
 | Picusha            | https://picusha.net/               | -           |
+| TinyImg            | https://tinyimg.io/                | -           |
+| ImageZilla         | http://imagezilla.net/             | -           |
+| PicoFile           | http://www.picofile.com/           | -           |
 | MagaImg            | https://magaimg.net/               | -           |
 | Uploads            | http://uploads.im/                 | -           |
 | Wmpics             | https://wmpics.pics/               | -           |
