@@ -12,6 +12,8 @@
 
   - [Выбор хостингов файлов](/ru-RU/choosing-file-hostings.md)
 
+  - [Оптимизация зеркалирования](/ru-RU/mirroring-optimization.md)
+
 - Полезные списки разных сервисов
 
   - [Список хостингов файлов](/ru-RU/files-hostings-list.md)
