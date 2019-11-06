@@ -6,7 +6,7 @@
 
 - Как создавать "зеркала"
 
-  - [Базовы принципы](/ru-RU/base-info.md)
+  - [Базовые принципы](/ru-RU/base-info.md)
 
   - [Стратегии создания "зеркал"](/ru-RU/creation-strategies.md)
 
